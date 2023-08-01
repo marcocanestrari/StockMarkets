@@ -30,7 +30,7 @@ This Swift Package is available on GitHub. To install it, add the following to t
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/<Your-GitHub-Username>/CurrencyAndMarket.git", from: "1.0.0")
+    .package(url: "https://github.com/marcocanestrari/StockMarkets.git", from: "1.0.0")
 ]
 ```
 

@@ -37,5 +37,5 @@ dependencies: [
 Afterwards, import the module in any file you want to use it:
 
 ```swift
-import CurrencyAndMarket
+import StockMarkets
 ```
